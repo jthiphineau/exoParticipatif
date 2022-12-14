@@ -1,0 +1,17 @@
+p: créer un dossier 
+p: créer un depot local avec init 
+p: créer la branche principal main 
+p: créer un depot distant avec gitHub 
+p: relié les 2 depot avec remote 
+p: créer 2 fichier 
+p: il va faire un add commit puis un push 
+p: doit donner le droit au collaborateur de participé sur github(settings) 
+c: clonné depot distant du propri avec le lien de github avec git clone 
+p: modifié les fichiers 
+c: il vont mettre a jour les fichiers modifié avec pull 
+c: créer une nouvelle branche 
+c: modifié les fichiers 
+c: faire un add puis un commit sur cette branche (oubliez pas de vous positionné dans la branche avec checkout) 
+c: aller sur github et faire une pull request (demandé au proprio de merge dans la branche principal main) 
+p: résoudre les conflits si il y'en a 
+p: il doit accepter le merge et fusionné les deux branches 
